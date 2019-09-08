@@ -1,0 +1,13 @@
+name: introtodv
+title: introtodv
+username:
+account: ahmadhusain
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 656254
+bundleId: 1825058
+url: https://ahmadhusain.shinyapps.io/introtodv/
+when: 1547978893.05518
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: iris.csv
